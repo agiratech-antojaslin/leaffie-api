@@ -10,6 +10,7 @@ var path = require('path');
 const authRoutes = require('./routes/auth');
 const categoryRoutes = require('./routes/category');
 const productRoutes = require('./routes/product');
+const port = process.env.PORT || 8000
 
 mongoose.connect(mongoString);
 const database = mongoose.connection;
@@ -40,6 +41,6 @@ app.use('/api/auth', authRoutes);
 app.use('/api/category', categoryRoutes);
 app.use('/api/product', productRoutes);
 
-app.listen(8000, () => {
-    console.log(`Server Started at ${8000}`)
+app.listen(port, () => {
+    console.log(`Server Started at ${port}`)
 })

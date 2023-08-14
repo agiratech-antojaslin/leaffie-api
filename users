@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "64d1f3399ea170d59648e2a3"
+  },
+  "username": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$byTOJ.7nCJj5Nam53BZuDO/gW2MbrQwEDvJbMtNHxm3J6Scy8I4xS",
+  "phone": "7449296738",
+  "address": "address 1, address 2, city, pincode",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d367eef484f6d3b508315f"
+  },
+  "username": "Vijayalakshmi",
+  "email": "vijayalakshmi@gmail.com",
+  "password": "$2a$10$2fxYaSAfk3sQCB0TJhxqDuDh1kX9BHQb06LU6xB2GIpYneZq2dd0C",
+  "phone": "7543613734",
+  "address": "No 16, 2nd cross street,\n12th street, Jayaram nagar,\nNerkundrem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d36896f484f6d3b5083163"
+  },
+  "username": "Kuldeep",
+  "email": "kuldeep@gmail.com",
+  "password": "$2a$10$eCFr.H3I5Q8yN6cfDUUDLunNCiGCPV6ChaqgbUZ2nB.PRpxk.RlWG",
+  "phone": "3747478872",
+  "address": "No 16, 2nd cross street,\n12th street, Jayaram nagar,\nNerkundrem",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d368c4f484f6d3b5083167"
+  },
+  "username": "Jaslin",
+  "email": "jaslin@gmail.com",
+  "password": "$2a$10$JP0Iq68whFsVrJ3DN9/1eebWv0YQ7oRqYxnQHRkc1wsye2FrAMsuS",
+  "phone": "7449296732",
+  "address": "No 16, 2nd cross street,\n12th street, Jayaram nagar,\nNerkundrem",
+  "__v": 0
+}]

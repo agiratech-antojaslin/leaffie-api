@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "64d1f7ad3664878d9b52911b"
+  },
+  "categoryName": "Flowering Plants",
+  "description": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d1f7e33664878d9b52911d"
+  },
+  "categoryName": "Foliage Plants",
+  "description": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d1fb0c3664878d9b52911f"
+  },
+  "categoryName": "Trending Plants",
+  "description": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d1fb2b3664878d9b529121"
+  },
+  "categoryName": "Herb Plants",
+  "description": "",
+  "__v": 0
+}]

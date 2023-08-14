@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "64d20cfa45a2f4a3ce9104c8"
+  },
+  "productName": "Dahlia (Red) - Plant",
+  "description": "prod desc",
+  "price": "199",
+  "categoryID": "64d1f7ad3664878d9b52911b",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-dahlia-red-plant_236x236.jpg?v=1634217586",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d20d5a45a2f4a3ce9104ca"
+  },
+  "productName": "Dianthus (White) - Plant",
+  "description": "Dianthus means divine flower. Dianthus plant produces vibrant color flowers in spring or summer.",
+  "price": "259",
+  "categoryID": "64d1f7ad3664878d9b52911b",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-plant-dianthus-white-plant-599872_236x236.jpg?v=1679749855",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d20da245a2f4a3ce9104cc"
+  },
+  "productName": "Adenium Plant, Desert Rose (Grafted, Any Color) - Plant",
+  "description": "Adenium is a tropical plant known for its striking flowers and unique trunk. Whether you are a new seasoned grower do not worry about the holidays your Adenium will be alive in any appropriate condition.",
+  "price": "399",
+  "categoryID": "64d1f7ad3664878d9b52911b",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-adenium-plant-desert-rose-grafted-any-color-plant_236x236.jpg?v=1634211546",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d20e0c45a2f4a3ce9104ce"
+  },
+  "productName": "Aster (violet) - Plant",
+  "description": "Aster is propagated by seed. The seeds will germinate in a week at about 21 degree Celsius.",
+  "price": "199",
+  "categoryID": "64d1f7ad3664878d9b52911b",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-category-aster-plants_236x236.jpg?v=1634213990",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d20e7945a2f4a3ce9104d0"
+  },
+  "productName": "Allamanda Tiger (Peach Orange) - Plant",
+  "description": "The Allamanda is one of the groups of semi-climbing, upright growing plants, becoming more and more popular nowadays.As shrub Allamanda grows very thick and gets covered with yellow bell shaped 3, 4 inches long blooms in growing season.",
+  "price": "299",
+  "categoryID": "64d1f7ad3664878d9b52911b",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-allamanda-tiger-peach-orange-plant_600x600.jpg?v=1634213023",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d20ed945a2f4a3ce9104d2"
+  },
+  "productName": "Aglaonema Pink Dalmatian - Plant",
+  "description": "Aglaonema Pink Dalmatian Plant is a species of genus aglaonema categorized under Araceae plants family. Aglaonema is also known as Chinese evergreen. Aglaonema plants are attractive, varied, tough, drought-tolerant, low maintenance and hard to kill houseplants with colorful foliage.",
+  "price": "659",
+  "categoryID": "64d1f7e33664878d9b52911d",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-AglaonemaPinkDalmatian-Plant-230694_600x600.jpg?v=1679749018",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2102645a2f4a3ce9104d4"
+  },
+  "productName": "Alocasia macrorrhiza - Plant",
+  "description": "Alocasia macrorrhizos is a species of flowering plant in the arum family, Araceae, that it is native to rainforests from Malaysia to Queensland and has long been cultivated on many islands and elsewhere in the tropics.",
+  "price": "249",
+  "categoryID": "64d1f7e33664878d9b52911d",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-alocasia-macrorrhiza-plant-17027852763276_600x600.jpg?v=1634213087",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2128f45a2f4a3ce9104d6"
+  },
+  "productName": "Cordiline Dracaena - Plant",
+  "description": "Cordiline Dracaena is a member of the Dracaena family (Asparagaceae), a family that provides some of the most durable foliage plants used indoors in offices building, hotels, and malls but also as an everyday house plant.",
+  "price": "349",
+  "categoryID": "64d1f7e33664878d9b52911d",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-cordiline-dracaena-plant_600x600.jpg?v=1634217335",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d212f145a2f4a3ce9104d8"
+  },
+  "productName": "Lovely Heart Plant in Plastic Pot for Lovely Mother",
+  "description": "We all are living with so many things surrounding ourselves which may cause stress or disappointments. But, here, this pack is created for the spread of love and Happiness.",
+  "price": "399",
+  "categoryID": "64d1f7e33664878d9b52911d",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-gifts-lovely-heart-plant-for-lovely-mother-in-plastic-pot-16969010118796_600x600.jpg?v=1634223404",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2132e45a2f4a3ce9104da"
+  },
+  "productName": "Philodendron Red Congo - Plant",
+  "description": "Philodendron Rojo congo is a large evergreen perennial shrub species that produces big, attractive oval to lance-shaped leaves with fleshy red stems. This large plant is well-placed in big spaces and contrasts nicely with green foliage plants.",
+  "price": "359",
+  "categoryID": "64d1f7e33664878d9b52911d",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-philodendron-red-congo-plant-648113_600x600.jpg?v=1679750875",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2138845a2f4a3ce9104dc"
+  },
+  "productName": "Anthurium (Pink) - Plant",
+  "description": "If you have space to spare, make an impressive display in your living room with a great eye-catcher Anthurium plant.",
+  "price": "699",
+  "categoryID": "64d1fb0c3664878d9b52911f",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-anthurium-andreanum-princess-amalia-elegance-plant_600x600.jpg?v=1634213376",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d213b945a2f4a3ce9104de"
+  },
+  "productName": "Damascus Rose, Scented Rose (Any Color) - Plant",
+  "description": "Damascus roses are known for its distinct fragrance. Enjoy the real and oldest scent of rose.",
+  "price": "299",
+  "categoryID": "64d1fb0c3664878d9b52911f",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-damascus-rose-scented-rose-any-color-plant_236x236.jpg?v=1634217615",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2142145a2f4a3ce9104e0"
+  },
+  "productName": "Nagkeshar, Mesua Ferrea - Plant",
+  "description": "It is widely cultivated as an ornamental due to its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers",
+  "price": "279",
+  "categoryID": "64d1fb0c3664878d9b52911f",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-nagkeshar-mesua-ferrea-plant_600x600.jpg?v=1634224647",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2148c45a2f4a3ce9104e2"
+  },
+  "productName": "Gardenia Dwarf, Ananta Dwarf - Plant",
+  "description": "Gardenia is a genus of flowering plants in the coffee family. Gardenia is an attractive, waxy, creamy-white flowers bearing. It is a small evergreen shrub with waxy, lance-shaped leathery, dark green leaves contrasting with intoxicating fragrant, creamy-white flower",
+  "price": "259",
+  "categoryID": "64d1fb0c3664878d9b52911f",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-gardenia-dwarf-ananta-dwarf-plant-16968871805068_600x600.jpg?v=1634219913",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2152745a2f4a3ce9104e4"
+  },
+  "productName": "Rajnigandha, Tuberose - Plant",
+  "description": "The tuberose is a night-blooming plant native to Mexico, as is every other known species of Polianthes.It grows in elongated spikes up to 45 cm (18 in) long that produce clusters of fragrant waxy white flowers that bloom from the bottom towards the top of the spike.",
+  "price": "199",
+  "categoryID": "64d1fb0c3664878d9b52911f",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-rajnigandha-tuberose-plant-16969240019084_600x600.jpg?v=1634227249",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d215e045a2f4a3ce9104e6"
+  },
+  "productName": "Common Mint Plant, Pudina - Plant",
+  "description": "Mint is a perennial plant; have fragrant, strongly flavored leaves.",
+  "price": "199",
+  "categoryID": "64d1fb2b3664878d9b529121",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-common-mint-plant-pudina-plant-16968793620620_600x600.jpg?v=1634216630",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2161045a2f4a3ce9104e8"
+  },
+  "productName": "Piper Betel, Maghai Paan - Plant",
+  "description": "Enhance the beauty of your outdoor spaces by an excellent dense green Betel vine plant.",
+  "price": "259",
+  "categoryID": "64d1fb2b3664878d9b529121",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-piper-betel-maghai-paan-plant-983041_600x600.jpg?v=1679750882",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2163b45a2f4a3ce9104ea"
+  },
+  "productName": "Mexican mint, Patharchur, Ajwain Leaves - Plant",
+  "description": "Planting an herbal plant in your garden is a wonderful way to enjoy the sights, smells, and tastes of plants. Grow your own Ajwain plant and enjoy the benefits of growing fresh herbs.",
+  "price": "259",
+  "categoryID": "64d1fb2b3664878d9b529121",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-mexican-mint-patharchur-ajwain-leaves-plant_600x600.jpg?v=1634223961",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d2168545a2f4a3ce9104ec"
+  },
+  "productName": "Badi Elaichi, Black Cardamom - Plant",
+  "description": "Tall, perennial, evergreen plant with rhizomes, about 90-100 cm height;leaves oblong lanceolate, 30-60 cm in length, shoots formed by long sheath-like stalks encircling one another;spikes globose, very dense and shortly peduncled;spikes areglobose",
+  "price": "419",
+  "categoryID": "64d1fb2b3664878d9b529121",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-badi-elaichi-black-cardamom-plant-16968610054284_600x600.jpg?v=1634214159",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d216bd45a2f4a3ce9104ee"
+  },
+  "productName": "Origanum Majorana, Marjoram, Marwa - Plant",
+  "description": "Marwa is the plant with the fragrant foliage. The Greeks called this plant Joy of the mountain and used it to make wreaths and garlands for weddings and funerals.",
+  "price": "299",
+  "categoryID": "64d1fb2b3664878d9b529121",
+  "quantity": 0,
+  "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-plants-origanum-majorana-marjoram-marwa-plant-in-grower-round-black-pot-734519_600x600.jpg?v=1679750746",
+  "__v": 0
+}]

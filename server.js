@@ -12,7 +12,10 @@ const categoryRoutes = require('./routes/category');
 const productRoutes = require('./routes/product');
 const port = process.env.PORT || 8000
 
-mongoose.connect(mongoString);
+//mongoose.set('strictQuery', false);
+//mongoose.connect( db='test', username='antojaslin', password='HnRieDC472eeYc3k', host='mongodb+srv://antojaslin:HnRieDC472eeYc3k@cluster0.hzlqtvq.mongodb.net/test/')
+mongoose.connect(process.env.MONGO_URI || mongoString);
+//mongoose.connect("mongodb+srv://antojaslin:HnRieDC472eeYc3k@cluster0.hzlqtvq.mongodb.net/leaffie");
 const database = mongoose.connection;
 
 database.on('error', (error) => {
